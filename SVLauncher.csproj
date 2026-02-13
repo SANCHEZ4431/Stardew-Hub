@@ -7,12 +7,10 @@
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 
-		<!-- Иконка приложения -->
 		<AssemblyName>StardewHub</AssemblyName>
 		<Product>Stardew Hub</Product>
 		<Description>Launcher for Stardew Valley</Description>
 
-		<!-- ДЕЛАЕМ ОДИН EXE -->
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
 		<SelfContained>false</SelfContained>
 		<PublishSingleFile>false</PublishSingleFile>
@@ -59,3 +57,4 @@
 	</ItemGroup>
 
 </Project>
+
